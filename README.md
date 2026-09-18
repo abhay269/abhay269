@@ -259,12 +259,12 @@ Building full-stack applications and AI-enabled product experiences with a focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhay269&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" height="180" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhay269&theme=github_dark" height="180" alt="GitHub statistics"/>
 <img src="https://streak-stats.demolab.com?user=abhay269&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180" alt="GitHub streak statistics"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay269&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay269&theme=github_dark" height="180" alt="Top languages"/>
 
 </div>
 
@@ -274,7 +274,7 @@ Building full-stack applications and AI-enabled product experiences with a focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhay269&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+<img src="https://personal-trophy.vercel.app/api?username=abhay269&theme=dark" alt="GitHub trophies"/>
 
 </div>
 
@@ -284,7 +284,7 @@ Building full-stack applications and AI-enabled product experiences with a focus
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay269&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay269&theme=github_dark" width="100%" alt="Contribution activity"/>
 
 </div>
 
@@ -294,7 +294,7 @@ Building full-stack applications and AI-enabled product experiences with a focus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhay269/abhay269/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/abhay269/abhay269/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
